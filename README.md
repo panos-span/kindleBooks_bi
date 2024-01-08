@@ -13,3 +13,5 @@ You will implement at least two models.
 To find datasets, you can search the internet for relevant
 websites (e.g. https://www.kaggle.com/, http://archive.ics.uci.edu/ml/,
 http://www.kdnuggets.com/datasets/index.html)
+
+The dataset to be analyzed was the Amazon Kindle Books Dataset 2023 from the Kaggle platform, which contains data for 130,000 Kindle e-books. The publicly available data was collected in October 2023 from Amazon's website https://www.amazon.com/kindle-books/. The data was collected by asaniczka and is licensed under the ODC Attribution License (ODC-By).
