@@ -2,7 +2,7 @@
  Business Intelligence and Big Data Analysis Semester Project
 
 1) [50%] A large data set will be found, which will need to be cleaned and inserted into one
-Data warehouse, which will be designed by the groups (2 students per group). Will
+Data warehouse, which will be designed by the groups (two students per group). Will
 created a data cube and various metrics.
 2) [30%] A visualization tool (Tableau or Power BI) will be used to
 create various data visualization cases.
